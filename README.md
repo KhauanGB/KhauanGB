@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou o Khauan</h1>
-<h3 align="center">Eu estou cursando o Quarto período de Sistemas de Informação.</h3>
+<h3 align="center">Eu estou cursando o Quinto período de Sistemas de Informação.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khauangb&label=Profile%20views&color=0e75b6&style=flat" alt="khauangb" /> </p>
 
